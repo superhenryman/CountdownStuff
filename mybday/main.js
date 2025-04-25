@@ -22,5 +22,4 @@ function triggerConfetti() {
         origin: { x: 0.5, y: 0.5 }
     });
 }
-calculateDaysUntilBirthday();
-setInterval(calculateDaysUntilBirthday, 1000);
+setInterval(calculateDaysUntilBirthday, 1);
