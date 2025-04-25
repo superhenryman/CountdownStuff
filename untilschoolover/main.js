@@ -23,4 +23,4 @@ function triggerConfetti() {
     });
 }
 calculateDaysUntilSchoolOver();
-setInterval(calculateDaysUntilSchoolOver(), 1000);
+setInterval(calculateDaysUntilSchoolOver(), 10);
