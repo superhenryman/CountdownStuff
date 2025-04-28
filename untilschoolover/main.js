@@ -1,5 +1,5 @@
 const year = new Date().getFullYear();
-let dateStr = `${year}-06-06T00:00:00`;
+let dateStr = `${year}-06-03T00:00:00`;
 const birthday = new Date(dateStr); 
 
 function calculateDaysUntilSchoolOver() {
